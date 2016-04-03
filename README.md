@@ -10,7 +10,7 @@ openpyxl
 ```
 ## Technologies Used
 ```bash
-Python 2.7 
+Python 2.7
 Microsoft Excel
 ```
 ## Directions of Use
@@ -28,7 +28,7 @@ python run.py
 ```
 
 ## Challenge Demo
-The link to completion of the challenge is <a href="https://docs.google.com/spreadsheets/d/1b3-mQSN10uxhbNXnnZGkcQ0s1gkuNIbgLXc35Rhubpw/edit?usp=sharing"> here </a>
+The link to completion of the challenge is <a href="https://docs.google.com/spreadsheets/d/1BSWe4CEw5DvF1h5x4OdXAR8eWEcIJmiqdkxG0JwJ7qA/edit?usp=sharing"> here </a>
 
 ## References
 + https://docs.google.com/document/d/1ZbY7KF4XQfJ7K3VbkcSaLW__sThIlnxcvLVN5nFKSUk/edit
