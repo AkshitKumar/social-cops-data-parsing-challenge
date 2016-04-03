@@ -8,6 +8,11 @@ BeautifulSoup
 urllib
 openpyxl
 ```
+## Technologies Used
+```bash
+Python 2.7 
+Microsoft Excel
+```
 ## Directions of Use
 + After cloning this repo on your system
 ```bash
@@ -25,11 +30,6 @@ python run.py
 ## Challenge Demo
 The link to completion of the challenge is <a href="https://docs.google.com/spreadsheets/d/1b3-mQSN10uxhbNXnnZGkcQ0s1gkuNIbgLXc35Rhubpw/edit?usp=sharing"> here </a>
 
-## System Requirements
-```bash
-Python 2.7 or above
-Installed Dependencies
-```
 ## References
 + https://docs.google.com/document/d/1ZbY7KF4XQfJ7K3VbkcSaLW__sThIlnxcvLVN5nFKSUk/edit
 + https://www.binpress.com/tutorial/manipulating-pdfs-with-python/167
