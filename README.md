@@ -6,7 +6,6 @@ regex
 requests
 BeautifulSoup
 urllib
-csv
 openpyxl
 ```
 ## Directions of Use

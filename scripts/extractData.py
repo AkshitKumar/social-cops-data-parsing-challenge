@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import urllib
-import csv
 import sys
 from openpyxl import load_workbook
 
